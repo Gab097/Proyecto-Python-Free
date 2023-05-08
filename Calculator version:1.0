@@ -1,0 +1,29 @@
+#numeros
+uno = 1
+dos = 2
+tres = 3
+cuatro = 4
+cinco = 5
+seis = 6
+siete = 7
+ocho = 8
+nueve = 9
+cero = 0
+
+#numeros de dos cifras 1
+diez = 10
+once = 11
+doce = 12
+trece = 13
+catorce = 14
+quince = 15
+diesiseis = 16
+diesisiete = 17
+diesiocho = 18
+diesinueve = 19
+veinte = 20
+
+palabra = "Escribe en el print el valor para obtener el resultado:"
+print(palabra)
+
+print()
